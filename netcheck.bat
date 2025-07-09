@@ -1,33 +1,33 @@
 @echo off
+chcp 65001 >nul
 color 0A
+title å€ç¶²é€£ç·šå¿«é€Ÿæª¢æ¸¬å·¥å…·ï¼ˆBy Nelsonï¼‰
+
 echo ========================================
-echo   °Ïºô³s½u§Ö³tÀË´ú¤u¨ã¡]By Nelson¡^
+echo   å€ç¶²é€£ç·šå¿«é€Ÿæª¢æ¸¬å·¥å…·ï¼ˆBy Nelsonï¼‰
 echo ========================================
 echo.
 
-:: Åã¥Üºô¸ô¥d°ò¥»¸ê°T
-echo [1] Åã¥Ü¥»¾÷ IP ³]©w¡G
+echo [1] é¡¯ç¤ºæœ¬æ©Ÿ IP è¨­å®šï¼š
 ipconfig
 echo.
 pause
 
-:: ÀË¬d¬O§_¦³®³¨ì¹h¹D¡]Default Gateway¡^
-echo [2] ¹Á¸Õ ping ¹w³]¹h¹D¡]192.168.50.1¡^...
+echo [2] å˜—è©¦ ping é è¨­é–˜é“ï¼ˆ192.168.50.1ï¼‰...
 ping 192.168.50.1 -n 4
 echo.
 pause
 
-:: ¹Á¸Õ ping ¤½ºô DNS¡]Google¡^
-echo [3] ¹Á¸Õ ping Google ¤½¦@ DNS¡]8.8.8.8¡^...
+echo [3] å˜—è©¦ ping Google å…¬å…± DNSï¼ˆ8.8.8.8ï¼‰...
 ping 8.8.8.8 -n 4
 echo.
 pause
 
-:: ¹Á¸Õ DNS ¸ÑªR´ú¸Õ
-echo [4] ¹Á¸Õ ping ºô°ì¡]www.google.com¡^¥H´ú¸Õ DNS...
+echo [4] å˜—è©¦ ping www.google.com ä»¥æ¸¬è©¦ DNS...
 ping www.google.com -n 4
 echo.
 pause
 
-echo ´ú¸Õ§¹¦¨¡A½Ð®Ú¾Ú¤W­±µ²ªGÀË¬d°ÝÃD¨Ó·½¡C
+echo ========================================
+echo æ¸¬è©¦å®Œæˆï¼Œè«‹æ ¹æ“šä¸Šæ–¹çµæžœæª¢æŸ¥å•é¡Œä¾†æºã€‚
 pause
