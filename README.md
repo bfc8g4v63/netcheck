@@ -1,3 +1,5 @@
+<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/8fc47708-69ac-4b3f-b76c-70b219b2fa44" />
+
 用途：區域網路（LAN）與網際網路快速連線檢測工具
 
 功能：
